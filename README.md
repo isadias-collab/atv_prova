@@ -1,4 +1,4 @@
-# Atividade# 🌎 ChileVenture
+# Atividade 🌎 ChileVenture
 
 Projeto de landing page para uma agência de viagens focada no Chile, apresentando destinos turísticos, pacotes, atividades e ofertas especiais.
 
